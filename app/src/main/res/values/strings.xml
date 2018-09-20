@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+
+    <string name="watch_trailer_label">Watch Trailers</string>
+    <string name="review_label">Reviews</string>
+
+    <string name="mark_favorite_label">Mark as Favorite</string>
+    <string name="remove_favorite_label">Remove from Favorite</string>
+
+    <string name="pref_sort_label">Sort</string>
+    <string name="pref_sort_most_popular_label">Sort by Most Popular</string>
+    <string name="pref_sort_highest_rated_label">Sort by Top Rated</string>
+    <string name="pref_soft_favorite_label">Sort by Favorite</string>
+
+    <string name="pref_sort_key">sort_by</string>
+    <string name="pref_sort_highest_rated">top_rated</string>
+    <string name="pref_sort_most_popular">popular</string>
+    <string name="pref_sort_favorite">favorite</string>
+
+    <string name="pref_sorting_criteria_key">sorting_criteria</string>
+    <string name="pref_sorting_order_key">sorting_order</string>
+    <string name="pref_sorting_order_default_value">desc</string>
+    <string name="pref_sorting_criteria_default_value">popular</string>
+</resources>
